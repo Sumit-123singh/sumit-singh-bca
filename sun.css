@@ -15,7 +15,7 @@ body {
   background-position: top center;
   background-size: cover;
   background-attachment: fixed;
-  background-color:skyblue;
+  background-color:pink;
   background-image: url(https://tse2.mm.bing.net/th?id=OIP.j-3RHrSYpPphzuo_5f8tEQHaEK&pid=Api&P=0&h=180);  
 }
 
@@ -26,7 +26,7 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .app-main {
-  min-height: 10vh;
+  min-height: 100vh;
   width: 30vw;
   margin: 50px auto;
   padding: 20px;
