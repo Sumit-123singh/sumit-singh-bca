@@ -26,7 +26,7 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .app-main {
-  mmin-height: 15vh;
+  min-height: 12vh;
   width: 30vw;
   margin: 50px auto;
   padding: 20px;
