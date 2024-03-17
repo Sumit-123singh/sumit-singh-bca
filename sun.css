@@ -15,12 +15,12 @@ body {
   background-position: top center;
   background-size: cover;
   background-attachment: fixed;
-  background-color:pink;
+  
   background-image: url(https://tse2.mm.bing.net/th?id=OIP.j-3RHrSYpPphzuo_5f8tEQHaEK&pid=Api&P=0&h=180);  
 }
 
 .header h4 {
-  color: #da1e4e;
+  color: #e9dadf;
   font-weight: 700;
   font-size: 2.4rem;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
